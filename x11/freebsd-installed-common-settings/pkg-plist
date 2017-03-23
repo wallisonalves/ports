@@ -1,0 +1,18 @@
+etc/PolicyKit/PolicyKit.conf
+etc/polkit-1/localauthority/50-local.d/org.freedesktop.consolekit.pkla
+etc/xdg/autostart/desktopsound.desktop
+share/freebsd/common-installed-settings/base/override/etc/freebsd-video.sh
+share/freebsd/common-installed-settings/base/override/etc/rc.d/virtualbox
+share/freebsd/common-installed-settings/base/patches/boot/loader.conf.extra
+share/freebsd/common-installed-settings/base/patches/etc/devd.conf.extra
+share/freebsd/common-installed-settings/base/patches/etc/devfs.rules.extra
+share/freebsd/common-installed-settings/base/patches/etc/make.conf.extra
+share/freebsd/common-installed-settings/base/patches/etc/profile.extra
+share/freebsd/common-installed-settings/base/patches/etc/rc.conf.extra
+share/freebsd/common-installed-settings/base/patches/etc/sysctl.conf.extra
+share/freebsd/common-installed-settings/packages/override/etc/X11/xorg.conf.orig
+share/freebsd/common-installed-settings/packages/override/etc/X11/xorg.conf.vbox
+share/sounds/freebsd/desktop-login.ogg
+@dir usr/local/share/freebsd/common-installed-settings/base/backup/boot
+@dir usr/local/share/freebsd/common-installed-settings/base/backup/etc
+@dir usr/local/share/freebsd/common-installed-settings/packages/backup/etc/X11

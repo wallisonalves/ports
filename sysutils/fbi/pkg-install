@@ -1,0 +1,14 @@
+#!/bin/sh
+
+case "$2" in
+    PRE-INSTALL)
+    if [ ! -d /root/Desktop ] ; then
+        mkdir -p /root/Desktop
+    fi
+    ;;
+    POST-INSTALL)
+    cp /usr/local/share/applications/fbi.desktop /root/Desktop/fbi.desktop
+    ;;
+esac
+
+exit 0

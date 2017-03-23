@@ -1,0 +1,3 @@
+share/freebsd/gnome-installed-settings/etc/default/grub
+share/freebsd/gnome-installed-settings/etc/polkit-1/localauthority/10-vendor.d/10-freebsd-gnome-installed-policy.pkla
+share/freebsd/gnome-installed-settings/etc/skel/dmrc

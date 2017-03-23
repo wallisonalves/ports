@@ -1,0 +1,4 @@
+share/freebsd/xfce-installed-settings/etc/default/grub
+share/freebsd/xfce-installed-settings/etc/skel/dmrc
+share/freebsd/xfce-installed-settings/etc/skel/gtkrc-2.0
+@dir share/freebsd/xfce-installed-settings/etc/default/grub.d
